@@ -27,9 +27,9 @@ input_mask:
  - "123456*1234*1234"
  - "12345*12345*1234"
 
-proxy:
- http: http://127.0.0.1:10803
- https: http://127.0.0.1:10803
+# proxy:
+#  http: http://127.0.0.1:10803
+#  https: http://127.0.0.1:10803
 
 img_ocr:
  app_key: 5c79cd4f29268c64
