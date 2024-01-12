@@ -33,6 +33,7 @@ pip3 install pyyaml
 pip3 install beautifulsoup4
 pip3 install requests
 ```
+请按照上述依赖安装，requirements.txt会导致Pillow和urllib3报错
 3. 环境变量
 ```
 # 日志级别 DEBUG/INFO/WARNING/ERROR, 默认:INFO
@@ -107,21 +108,3 @@ python3 t66y_auto_register.py
 ```
 
 ![](img/success.png)
-
-## 免责声明
-
-- 本脚本仅供学习和研究使用，请勿将其用于非法活动。
-- 对于使用本脚本造成的任何违法行为或损失，作者不承担任何责任。
-
-
-## 贡献
-
-如果你对项目有兴趣或想要为项目做贡献，你可以提交 issue 或者 Pull Request。
-
-## 捐赠
-
-**如果感觉对您有帮助，请作者喝杯咖啡吧，请注明您的名字或者昵称，方便作者感谢o(*￣︶￣*)o**
-
-|         **WECHAT**          |         **ALIPAY**          |
-|:---------------------------:|:---------------------------:|
-| ![](doc/wechat_resized.jpg) | ![](doc/alipay_resized.jpg) |
